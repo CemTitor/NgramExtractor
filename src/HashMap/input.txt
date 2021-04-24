@@ -1,0 +1,1 @@
+You are expected to develop a text analyzer tool. The program allows you to find the most frequent phrases and frequencies of words. Non-English language texts are supported. It also counts number of words, characters, sentences and syllables. Also calculates lexical density
